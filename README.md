@@ -1,2 +1,2 @@
-# Projects
+# Здесь находятся проекты с которыми я занимался.
 Python test projects
