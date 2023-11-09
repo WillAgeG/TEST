@@ -1,0 +1,41 @@
+mkdir door_management_files/
+mkdir door_management_files/door_configuration/
+mkdir door_management_files/door_logs/
+mkdir door_management_files/door_map/
+cp door_management_fi/door_1.conf door_management_files/door_configuration/
+cp door_management_fi/door_2.conf door_management_files/door_configuration/
+cp door_management_fi/door_3.conf door_management_files/door_configuration/
+cp door_management_fi/door_4.conf door_management_files/door_configuration/
+cp door_management_fi/door_5.conf door_management_files/door_configuration/
+cp door_management_fi/door_6.conf door_management_files/door_configuration/
+cp door_management_fi/door_7.conf door_management_files/door_configuration/
+cp door_management_fi/door_8.conf door_management_files/door_configuration/
+cp door_management_fi/door_9.conf door_management_files/door_configuration/
+cp door_management_fi/door_10.conf door_management_files/door_configuration/
+cp door_management_fi/door_11.conf door_management_files/door_configuration/
+cp door_management_fi/door_12.conf door_management_files/door_configuration/
+cp door_management_fi/door_13.conf door_management_files/door_configuration/
+cp door_management_fi/door_14.conf door_management_files/door_configuration/
+cp door_management_fi/door_15.conf door_management_files/door_configuration/
+cp door_management_fi/door_16.conf door_management_files/door_configuration/
+cp door_management_fi/door_21.conf door_management_files/door_configuration/
+
+cp door_management_fi/door_1.log door_management_files/door_logs/
+cp door_management_fi/door_2.log door_management_files/door_logs/
+cp door_management_fi/door_3.log door_management_files/door_logs/
+cp door_management_fi/door_4.log door_management_files/door_logs/
+cp door_management_fi/door_5.log door_management_files/door_logs/
+cp door_management_fi/door_6.log door_management_files/door_logs/
+cp door_management_fi/door_7.log door_management_files/door_logs/
+cp door_management_fi/door_8.log door_management_files/door_logs/
+cp door_management_fi/door_9.log door_management_files/door_logs/
+cp door_management_fi/door_10.log door_management_files/door_logs/
+cp door_management_fi/door_11.log door_management_files/door_logs/
+cp door_management_fi/door_12.log door_management_files/door_logs/
+cp door_management_fi/door_13.log door_management_files/door_logs/
+cp door_management_fi/door_14.log door_management_files/door_logs/
+cp door_management_fi/door_15.log door_management_files/door_logs/
+cp door_management_fi/door_16.log door_management_files/door_logs/
+
+cp door_management_fi/door_map_1.1 door_management_files/door_map/
+

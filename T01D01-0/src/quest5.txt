@@ -1,0 +1,5 @@
+cd door_management_files
+cd door_configuration
+nano door_1.conf
+CTRL + S
+CTRL + X
